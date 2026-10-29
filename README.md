@@ -50,7 +50,7 @@ Each simulation cell is a nanoparticle with:
 - dipolar (demag) interactions
 
 The equilibrium magnetization is found by minimizing the total energy
-(`UniaxialAnisotropy + Demag + Zeeman`) with a damping `alpha = 0.5`.
+(`UniaxialAnisotropy + Demag + Zeeman`).
 
 ### Maxwell stress tensor and force density
 
