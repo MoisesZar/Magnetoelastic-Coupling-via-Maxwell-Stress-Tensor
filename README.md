@@ -18,7 +18,9 @@ interparticle strain.
 The setup models a simple-cubic assembly of magnetic nanoparticles with a
 common uniaxial easy axis along `z`, clamped at the bottom (`z = 0`), and
 subjected to an external field along `x` (perpendicular to the easy axis).
-<img width="1278" height="535" alt="image" src="https://github.com/user-attachments/assets/38cfd611-8c0e-46e4-a5f6-e13fbe2ca406" />
+<img width="600" height="540" alt="anim_zx_lento (1)" src="https://github.com/user-attachments/assets/acb55846-8029-431d-a95e-0c23fb8e161f" />
+<img width="600" height="540" alt="anim_fuerza_yz_ciclo_lento (1)" src="https://github.com/user-attachments/assets/2ee7a2a5-751f-43c6-892f-46a2a4e36f1b" />
+
 
 ---
 
