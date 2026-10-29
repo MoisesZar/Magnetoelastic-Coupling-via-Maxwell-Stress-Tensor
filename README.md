@@ -19,9 +19,20 @@ The setup models a simple-cubic assembly of magnetic nanoparticles with a
 common uniaxial easy axis along `z`, clamped at the bottom (`z = 0`), and
 subjected to an external field along `x` (perpendicular to the easy axis).
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img width="400" alt="anim_zx_lento" src="https://github.com/user-attachments/assets/acb55846-8029-431d-a95e-0c23fb8e161f" />
-  <img width="400" alt="anim_fuerza_yz_ciclo_lento" src="https://github.com/user-attachments/assets/2ee7a2a5-751f-43c6-892f-46a2a4e36f1b" />
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; text-align: center;">
+  <div>
+    <img width="400" alt="anim_zx_lento" src="https://github.com/user-attachments/assets/acb55846-8029-431d-a95e-0c23fb8e161f" />
+    <p style="font-size: 14px; margin-top: 8px;">
+      <b>Fig. 1:</b> Magnetization as a function of the applied field along x (xz plane).
+    </p>
+  </div>
+  <div>
+    <img width="400" alt="anim_fuerza_yz_ciclo_lento" src="https://github.com/user-attachments/assets/2ee7a2a5-751f-43c6-892f-46a2a4e36f1b" />
+    <p style="font-size: 14px; margin-top: 8px;">
+      <b>Fig. 2:</b> x-component of the magnetic force density (yz plane).
+    </p>
+  </div>
 </div>
 
 
