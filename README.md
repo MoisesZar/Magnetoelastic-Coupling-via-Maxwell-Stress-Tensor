@@ -119,7 +119,12 @@ The relative weight of anisotropy vs magnetostatic energy is parametrized by
 
 The script sweeps `κ ∈ {0.1, 0.5, 1, 2, 5}` and the normalized field
 `B/(μ0 Ms κ) ∈ [−2, 2]`.
-
+<div style="text-align: center;">
+  <img width="800" alt="Delta_V2" src="https://github.com/user-attachments/assets/e740edd7-22e2-4ccd-979f-37ca994f1b59" />
+  <p style="font-size: 14px; margin-top: 8px; text-align: justify; max-width: 800px; margin-left: auto; margin-right: auto;">
+    <b>Figure 3:</b> Volumetric strain resulting from magnetic interactions under an external magnetic field. (a) A fixed demagnetizing factor (\(1/3\)) is considered while varying \(\kappa\). (b) A fixed \(\kappa = 5\) is considered while varying the overall shape of the system.
+  </p>
+</div>
 ---
 
 MoisesZar
