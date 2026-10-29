@@ -19,8 +19,10 @@ The setup models a simple-cubic assembly of magnetic nanoparticles with a
 common uniaxial easy axis along `z`, clamped at the bottom (`z = 0`), and
 subjected to an external field along `x` (perpendicular to the easy axis).
 
-<img width="300" height="270" alt="anim_zx_lento (1)" src="https://github.com/user-attachments/assets/acb55846-8029-431d-a95e-0c23fb8e161f" >
-<img width="300" height="270" alt="anim_fuerza_yz_ciclo_lento (1)" src="https://github.com/user-attachments/assets/2ee7a2a5-751f-43c6-892f-46a2a4e36f1b" >
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img width="400" alt="anim_zx_lento" src="https://github.com/user-attachments/assets/acb55846-8029-431d-a95e-0c23fb8e161f" />
+  <img width="400" alt="anim_fuerza_yz_ciclo_lento" src="https://github.com/user-attachments/assets/2ee7a2a5-751f-43c6-892f-46a2a4e36f1b" />
+</div>
 
 
 ---
